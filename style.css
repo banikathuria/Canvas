@@ -1,0 +1,21 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+
+
+#myCanvas{ 
+	background-color: lavenderblush;
+	border-width:5px;
+	border-color: deeppink; 
+	border-style: dotted;
+	
+
+}
+body{
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
